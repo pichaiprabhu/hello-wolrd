@@ -1,3 +1,3 @@
-# hello-wolrd
-This is test
-second Test
+# maven-project
+
+Simple Maven Project
